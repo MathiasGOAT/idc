@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+#myCanvas
+  {
+      border-width:10px;
+      background-color: transparent; 
+      border-style:ridge;
+  }
+.body_backgorund {
+    background-image: url("https://ichef.bbci.co.uk/news/640/cpsprodpb/10413/production/_100697566_hi045932006.jpg");
+    background-position: center;
+    background-size: cover;
+  }
